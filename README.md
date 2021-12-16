@@ -2,7 +2,7 @@
 
 Completed for the UT Austin McCombs Artificial Intelligence and Machine Learning Post Graduate Program. 
 
-**Course:** Fundamentals of Artificial Intelligence and Machine Learning (AIML) - August 2020.
+**Course:** Fundamentals of Artificial Intelligence and Machine Learning (AIML) - August 2020
 
 **Score:** 58/60
 
